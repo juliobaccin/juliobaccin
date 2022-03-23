@@ -18,7 +18,7 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div>
-<img width="100" heigth="100" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif?raw=true">
+<img width="300" height="300" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif?raw=true">
 </div>
 
 
