@@ -1,4 +1,4 @@
-### Olá! Eu sou Julio Cesar Baccin 👋
+# Olá! Eu sou Julio Cesar Baccin 👋
 
 > Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis atuar!❤️🤓.
 
