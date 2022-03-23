@@ -1,6 +1,8 @@
 <h1>##Olá! Eu meu nome é Julio Cesar Baccin, sou de Trindade do Sul/RS, tenho 28 anos, seja muito bem vindo ao meu perfil!</h1><br>
 
-Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis trabalhar!❤️
+Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis trabalhar!❤️🤓.
+
+Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
 
 Atualmente estou estudando técnologias voltadas para a área de Front-End:
  </div>
