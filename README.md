@@ -1,12 +1,12 @@
-<h1>##Olá! Eu meu nome é Julio Cesar Baccin, sou de Trindade do Sul/RS, tenho 28 anos, seja muito bem vindo ao meu perfil!</h1><br>
+##Olá! Eu meu nome é Julio Cesar Baccin 👋
 
-Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis trabalhar!❤️🤓.
+- Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis trabalhar!❤️🤓.
 
-Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
+- Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
 
-Atualmente estou estudando técnologias voltadas para a área de Front-End:
+- Atualmente estou estudando tecnologias voltadas para a área de Front-End:
  </div>
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="julio-HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="julio-CSS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="julio-Js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -14,8 +14,8 @@ Atualmente estou estudando técnologias voltadas para a área de Front-End:
 
  <div> 
   <a href="https://github.com/juliobaccin">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <div>
