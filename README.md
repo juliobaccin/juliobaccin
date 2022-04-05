@@ -5,13 +5,11 @@
 > Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
 
 > Atualmente estou estudando tecnologias voltadas para a área de Front-End:
-
- 
 <p>
-    <img align="" alt="julio-HTML" height="100em" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="" alt="julio-CSS" height="100em" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="" alt="julio-Js" height="100em" width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="" alt="julio-node.Js" height="100em" width="100em"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img align="left" alt="julio-HTML" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="left" alt="julio-CSS" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="left" alt="julio-Js" width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="center" alt="julio-node.Js" width="100em"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 </p>
 
 <p>
@@ -23,6 +21,6 @@
  <a href="https://www.linkedin.com/in/julio-cesar-baccin-1880a3a5/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
  
 - Thanks for visiting.
-
+ 
 - Enjoy it!! o/
 </p>
