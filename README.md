@@ -14,10 +14,12 @@
     <img align="" alt="julio-Js" height="100" width="100"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 </div>
 
+<div>
 <a href="https://github.com/juliobaccin">
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+ </div>
+ 
 <div>
 <img width="300" height="300" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif?raw=true">
 </div>
