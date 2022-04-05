@@ -18,7 +18,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark" alt="juliobaccin most languages"/>
  <br>
- <img align="" width="300em" height="300em" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif?raw=true">
+ <img align="" width="300em" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif?raw=true">
  <br>
  <a href="https://www.linkedin.com/in/julio-cesar-baccin-1880a3a5/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
  
