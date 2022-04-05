@@ -6,10 +6,10 @@
 
 > Atualmente estou estudando tecnologias voltadas para a área de Front-End:
 <p>
-    <img align="left" alt="julio-HTML" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="left" alt="julio-CSS" width="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="left" alt="julio-Js" width="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="" alt="julio-node.Js" width="100em"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img align="" alt="julio-HTML" width="100em" height="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="" alt="julio-CSS" width="100em" height="100em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="" alt="julio-Js" width="100em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img align="" alt="julio-node.Js" width="100em" height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 </p>
 
 <p>
