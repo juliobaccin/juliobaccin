@@ -1,10 +1,10 @@
 # Olá! Eu sou Julio Cesar Baccin <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
 
-> Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis atuar!❤️🤓.
+ Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis atuar!❤️🤓.
 
-> Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
+ Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
 
-> Atualmente estou estudando tecnologias voltadas para a área de Front-End:
+ Atualmente estou estudando tecnologias voltadas para a área de Front-End:
 <p>
     <img align="" alt="julio-HTML" width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="" alt="julio-CSS" width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
