@@ -17,8 +17,6 @@
  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark" alt="juliobaccin most languages"/>
 </div>
 
-##
-
  <div>
 <a href="https://www.linkedin.com/in/julio-cesar-baccin-1880a3a5/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
  </div>
