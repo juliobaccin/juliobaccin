@@ -13,17 +13,12 @@
 </p>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
+ <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark">
 </div>
 
-<div>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark" alt="juliobaccin most languages"/>
- </div>
-
-<div align="right">
-<img width="200px" height="200px" src="https://github.com/juliobaccin/juliobaccin/blob/main/WhatsApp%20Image%202022-04-16%20at%2013.58.49.jpeg">
-</div>  
-                                                                                                             
+ ##
+ 
  <div>                                                                                                            
 <a href="https://www.linkedin.com/in/julio-cesar-baccin-1880a3a5/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
  </div>
@@ -33,4 +28,3 @@
 - Thanks for visiting.
  
 - Enjoy it!! o/
-</p>
