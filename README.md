@@ -1,6 +1,6 @@
 # Olá! Eu sou Julio Cesar Baccin <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
 
- Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de desenvolvimento 💻, pois é onde sempre quis atuar!❤️🤓.
+ Atuei por 8 anos como Técnico em Segurança do Trabalho 👷🏽 e estou migrando para a área de programação 💻, pois é onde sempre quis atuar!❤️🤓.
  
  <img height="200px" width="300px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
 
