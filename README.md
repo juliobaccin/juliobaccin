@@ -6,19 +6,19 @@
 
  Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
  
- <img align="" height="100px" width="100px" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif">
+ <img height="100px" width="100px" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif">
 
 <h3>
  Tecnologias e sistemas que tenho estudado:
 </h3>
 
 <p>
-    <img align="#" alt="julio-HTML" width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="#" alt="julio-CSS" width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="#" alt="julio-Js" width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img width="50em" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
-    <img align="#" alt="julio-node.Js" width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img  width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+    <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />        
 </p>
 
