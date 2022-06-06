@@ -1,10 +1,10 @@
-# Olá! Eu sou Julio Cesar Baccin <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
+# Olá! Eu sou Julio<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
 
- Atuei por <strong>8 anos</strong> como <strong>Técnico em Segurança do Trabalho</strong> 👷🏽 e estou migrando para a área de programação 💻, pois é onde sempre quis atuar! ❤️🤓.
+ Atuei por <strong>8 anos</strong> como <strong>Técnico em Segurança do Trabalho</strong> 👷🏽 e atualmente estou em transição de carreira para a área de programação 💻, pois é onde sempre quis atuar! ❤️🤓.
  
  <img height="200px" width="300px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
 
- Nas horas vagas além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
+ Nas horas vagas, além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
  
  <img height="100px" width="100px" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif">
 
