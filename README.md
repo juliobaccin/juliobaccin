@@ -2,11 +2,11 @@
 
  Atuei por <strong>8 anos</strong> como <strong>Técnico em Segurança do Trabalho</strong> 👷🏽 e atualmente estou em transição de carreira para a área de <strong>programação</strong> 💻, pois é onde <strong>sempre quis atuar!</strong> ❤️🤓.
  
- <img height="200px" width="300px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
+ <img height="200px" width="200px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
 
  Nas horas vagas, além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
  
- <img height="200px" width="100px" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif">
+ <img height="100px" width="100px" src="https://github.com/juliobaccin/juliobaccin/blob/main/urso-acenando.gif">
  
 
 ## 🛠 &nbsp;Tech Stack
@@ -18,13 +18,13 @@
     <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
     <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
    <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>        
-</p><br>
+</p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p>
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark">
-</p><br>
+</p>
  
  ## 👨🏽‍🦲 &nbsp;Social Link
  <p>                                                                                                            
