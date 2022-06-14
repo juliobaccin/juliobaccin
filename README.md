@@ -2,7 +2,7 @@
 
  Atuei por <strong>8 anos</strong> como <strong>Técnico em Segurança do Trabalho</strong> 👷🏽 e atualmente estou em transição de carreira para a área de <strong>programação</strong> 💻, pois é onde <strong>sempre quis atuar!</strong> ❤️🤓.
  
- <img height="200px" width="200px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
+ <img height="150px" width="150px" src="https://github.com/juliobaccin/juliobaccin/blob/main/safety-first-jake-peralta.gif">
 
  Nas horas vagas, além de estudar 📚, gosto de jogar online 🎮 e pescar 🎣.
  
