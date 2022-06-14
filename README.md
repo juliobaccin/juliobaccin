@@ -22,8 +22,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align='center'>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=juliobaccin&show_icons=true&theme=vision-friendly-dark" alt="juliobaccin stats"/>
+ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobaccin&layout=compact&theme=vision-friendly-dark">
 </p>
  
  ## 👨🏽‍🦲 &nbsp;Social Link
